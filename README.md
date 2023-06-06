@@ -8,6 +8,11 @@ Specifically:
 + An evaluation of how the company’s stock price correlates to its Google Search traffic.
 + A Prophet forecast model that can predict hourly user search traffic.
 
-# Usages
+# Requirements
 For this project we are using the machine learning tool
 + prophet
++ pandas
++ numpy
++ hvplot
++ pathlib
++ holoviews
